@@ -8,6 +8,14 @@ Library used:<br/>
 **bootstrap**<br/>
 **Jquery**
 
+<br/><br/>
+**How to Use:**<br/>
+All you have to do is prepare the data (**alldata** in js code) you want! The current data structure is such that you can edit it to your liking.
+<br/><br/><br/>
+**Structur data object is:**
+{**Id**:"Primary Id your video",**Title**: "Title your video!",**countviewed**:"count viewed your video",**date**:"date release your video",**Body**:"your video caption or description",**Duration**:"duration your video by second",**tags**:"tags this video",}
+<br/><br/><br/>
+
 **Desktop view:**<br/>
 ![Screenshot 2022-04-25 175113](https://user-images.githubusercontent.com/71831664/165097839-89f1996d-9136-4bf9-9ddf-7f0faee31a91.png)
 <br/><br/>
@@ -27,10 +35,3 @@ Library used:<br/>
 <br/><br/>
 **Preview next video (when you mouseover next icon):**<br/>
 ![Screenshot 2022-04-25 181203](https://user-images.githubusercontent.com/71831664/165101218-1ecd1318-24b1-44c7-8ea1-53e10d45d7e6.png)
-
-
-**How to Use:**<br/>
-All you have to do is prepare the data (**alldata** in js code) you want! The current data structure is such that you can edit it to your liking.
-
-**Structur data object is:**
-{**Id**:"Primary Id your video",**Title**: "Title your video!",**countviewed**:"count viewed your video",**date**:"date release your video",**Body**:"your video caption or description",**Duration**:"duration your video by second",**tags**:"tags this video",}
