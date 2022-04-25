@@ -17,7 +17,7 @@ Library used:<br/>
 **Mobile browser view:**<br/>
 ![_I__My%20Workes_Developer_Work_VS_1397_BarghKaran_%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA_nomad%20visa_competition_video%20player_Index html(iPhone 6_7_8 Plus)](https://user-images.githubusercontent.com/71831664/165099055-d104b1b8-6a19-40e0-9f2d-8d20668feda0.png)
 <br/><br/>
-**Mobile browser fullcreen view:**<br/>
+**Mobile browser fullscreen view:**<br/>
 ![_I__My%20Workes_Developer_Work_VS_1397_BarghKaran_%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA_nomad%20visa_competition_video%20player_Index html(iPhone 6_7_8 Plus) (1)](https://user-images.githubusercontent.com/71831664/165099084-5154fbdd-4eff-44da-a722-97d5b68fea1a.png)
 
 
