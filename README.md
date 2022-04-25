@@ -20,6 +20,14 @@ Library used:<br/>
 **Mobile browser fullscreen view:**<br/>
 ![_I__My%20Workes_Developer_Work_VS_1397_BarghKaran_%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D8%A7%D8%AA_nomad%20visa_competition_video%20player_Index html(iPhone 6_7_8 Plus) (1)](https://user-images.githubusercontent.com/71831664/165099084-5154fbdd-4eff-44da-a722-97d5b68fea1a.png)
 
+<br/><br/>
+**Proggress next video:**<br/>
+![Screenshot 2022-04-25 181028](https://user-images.githubusercontent.com/71831664/165101059-32fd6b8f-fc80-46a0-aaf1-7631e407b96d.png)
+
+<br/><br/>
+**Preview next video (when you mouseover next icon):**<br/>
+![Screenshot 2022-04-25 181203](https://user-images.githubusercontent.com/71831664/165101218-1ecd1318-24b1-44c7-8ea1-53e10d45d7e6.png)
+
 
 **How to Use:**<br/>
 All you have to do is prepare the data (**alldata** in js code) you want! The current data structure is such that you can edit it to your liking.
